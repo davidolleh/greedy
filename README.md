@@ -11,9 +11,11 @@
 
 ### `진행 미션`
 
-|  Project   |                                        Repository                                        |                                  Pull Request                                  |                Reviewer                 |
-|:----------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:---------------------------------------:|
-| 자동차 경주 미션  | [저장소 링크](https://github.com/davidolleh/java-racingcar-simple-playground/tree/davidolleh) | [PR 링크](https://github.com/next-step/java-racingcar-simple-playground/pull/53) |  [송은우님](https://github.com/be-student)  | 
-| 자동차 경주 2단계 |   [저장소 링크](https://github.com/davidolleh/java-lotto-clean-playground/tree/davidolleh)    |   [PR 링크](https://github.com/next-step/java-lotto-clean-playground/pull/61)    | [원태연님](https://github.com/TaeyeonRoyce) |
-
+|  Project  |                                        Repository                            |                                  Pull Request                                  |                Reviewer                 |
+|:---------:|:----------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:---------------------------------------:|
+| 자동차 경주 미션 | [저장소 링크](https://github.com/davidolleh/java-racingcar-simple-playground/tree/davidolleh) | [PR 링크](https://github.com/next-step/java-racingcar-simple-playground/pull/53) |  [송은우님](https://github.com/be-student)  | 
+|   로또 미션   |   [저장소 링크](https://github.com/davidolleh/java-lotto-clean-playground/tree/davidolleh) |   [PR 링크](https://github.com/next-step/java-lotto-clean-playground/pull/61)    | [원태연님](https://github.com/TaeyeonRoyce) |
+|  사다리 미션   |           [저장소 링크](https://github.com/davidolleh/java-ladder-func-playground)| [PR 링크](https://github.com/next-step/java-ladder-func-playground/pull/23) | [dooboocookie](https://github.com/dooboocookie)  
+|  MVC 미션   | [저장소 링크](https://github.com/davidolleh/spring-roomescape-playground/tree/davidolleh) | [PR 링크](https://github.com/next-step/spring-roomescape-playground/pull/365) |                [kokodak](https://github.com/kokodak)                 |
+| JDBC 미션 | [저장소 링크](https://github.com/davidolleh/spring-roomescape-playground/tree/davidolleh-jdbc) | [PR 링크](https://github.com/next-step/spring-roomescape-playground/pull/378) | [송은우님](https://github.com/be-student)
 <br/>
